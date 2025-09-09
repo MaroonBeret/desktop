@@ -1,4 +1,4 @@
-## download-github-desktop
+## download github desktop
 ik was hier
 
 # [GitHub Desktop](https://desktop.github.com)
